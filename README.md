@@ -2,7 +2,8 @@
 
 SquelchWT reads War Thunder's local game chat and speaks it through a configurable radio effect in a compact 700×700 desktop display. It supports online neural voices and downloadable offline voices for allies and enemies.
 
-# Download: On the [Releases page](../../releases), download `SquelchWT-Windows-x64.zip`, extract the complete folder, and run `SquelchWT.exe`. Windows 64-bit is required. Start War Thunder first, then leave SquelchWT open while playing. No Python or FFmpeg installation is needed for the download. An internet connection is needed for neural speech and to download offline voice models. If Windows SmartScreen warns about the unsigned community app, use its normal review flow only if you trust the source and release.
+# Download: 
+On the [Releases page](../../releases), download `SquelchWT-Windows-x64.zip`, extract the complete folder, and run `SquelchWT.exe`. Windows 64-bit is required. Start War Thunder first, then leave SquelchWT open while playing. No Python or FFmpeg installation is needed for the download. An internet connection is needed for neural speech and to download offline voice models. If Windows SmartScreen warns about the unsigned community app, use its normal review flow only if you trust the source and release.
 
 **License:** You may use, study, modify, and redistribute this project for noncommercial purposes under [PolyForm Noncommercial 1.0.0](LICENSE). This is source-available software, not OSI open source, because commercial use is restricted. Dependencies and downloaded voice models have their own licenses. SquelchWT is an independent community project and is not affiliated with Gaijin Entertainment.
 
